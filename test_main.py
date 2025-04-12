@@ -9,4 +9,7 @@ def test_subtract():
 def test_multiply():
     assert main.multiply(1,3) == 3
 
+def test_divide():
+    assert main.divide(2,1) == 2
+
 
