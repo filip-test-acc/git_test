@@ -12,4 +12,7 @@ def test_multiply():
 def test_divide():
     assert main.divide(2,1) == 2
 
+def lalala():
+    assert main.divide(5,5) == 1
+
 
