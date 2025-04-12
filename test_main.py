@@ -6,4 +6,7 @@ def test_add():
 def test_subtract():
     assert main.subtract(1, 2) == -1
 
+def test_multiply():
+    assert main.multiply(1,3) == 3
+
 
